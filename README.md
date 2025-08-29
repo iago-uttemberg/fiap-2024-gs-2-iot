@@ -248,16 +248,3 @@ Adafruit IO Arduino
 
 ## Vídeo
 [Demonstração da simulação do Projeto](https://www.youtube.com/watch?v=opm4qBfaCTY)
-
-## Wokwi - Diagrama
-![image](https://github.com/user-attachments/assets/9ff398b6-fcc8-4d64-8a8f-f23816f598c9)
-
-## Adafruit IO - Feed de Alerta
-![image](https://github.com/user-attachments/assets/67e63d64-1b0e-4d06-a400-f2c3da9b056a)
-
-## Adafruit IO - Feed de Consumo
-![image](https://github.com/user-attachments/assets/d78c7703-93d3-4c58-8977-e53a10695cbe)
-
-## Thinger.IO - Dashboard
-![image](https://github.com/user-attachments/assets/908b4d12-1c10-4953-8425-bb4917947954)
-
